@@ -48,7 +48,7 @@
 
 ## DEPLOYED USING : [NETLIFY](https://www.netlify.com/)
 
-## LINK TO THE WEBSITE :
+## LINK TO THE WEBSITE : https://shareme-swastik.netlify.app/
 
 ## BUILD USING :
 - [SANITY](https://www.sanity.io/)
